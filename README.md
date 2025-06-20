@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**jaow7/jaow7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <b>Hi 👋, I'm jaow7</b><br>
+	
+<div align = "center">
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jaow7}/count.svg" /></p>
+</div>
 
-Here are some ideas to get you started:
+```py
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◦ They fear the jaow7!
+
+◦ jaow7 @github
+
+```
+```csharp
+• 🤖 Software Automation.
+• 👨🏻‍💻 Learning Web development.
+```
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+</p>
+
